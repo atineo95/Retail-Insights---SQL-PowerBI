@@ -1,0 +1,37 @@
+"Country","customerType","percentofRevenue","percentofTransactions","percentofCustomers","avgOrderValue","totalRevenue","totalTransactions"
+Australia,Casual,4,20,56,350,4896.85,14
+Australia,Engaged,96,80,44,2403,132180.42,55
+Belgium,Casual,39,26,60,521,16140.25,31
+Belgium,Engaged,61,74,40,281,24770.71,88
+Channel Islands,Engaged,53,61,33,531,10626.72,20
+Channel Islands,Casual,47,39,67,728,9459.57,13
+Cyprus,Engaged,48,30,13,1041,6245.53,6
+Cyprus,Casual,52,70,88,479,6700.76,14
+Finland,Casual,33,33,75,460,7364.82,16
+Finland,Engaged,67,67,25,468,14961.92,32
+France,Engaged,83,78,40,461,163969.17,356
+France,Casual,17,22,60,321,32743.67,102
+Germany,Casual,24,21,61,412,52722.75,128
+Germany,Engaged,76,79,39,356,168975.46,475
+Italy,Casual,57,35,80,506,9618.35,19
+Italy,Engaged,43,65,20,202,7272.16,36
+Japan,Engaged,68,57,25,1498,23973.13,16
+Japan,Casual,32,43,75,947,11367.49,12
+Malta,Casual,36,10,50,906,905.50,1
+Malta,Engaged,64,90,50,178,1599.97,9
+Netherlands,Casual,1,11,67,274,3017.05,11
+Netherlands,Engaged,99,89,33,3129,281644.49,90
+Norway,Casual,24,15,50,1396,8373.44,6
+Norway,Engaged,76,85,50,788,26790.02,34
+Poland,Engaged,72,75,33,288,5175.68,18
+Poland,Casual,28,25,67,340,2037.46,6
+Portugal,Casual,48,43,79,466,13965.29,30
+Portugal,Engaged,52,57,21,377,15094.52,40
+Spain,Casual,22,42,74,272,11975.62,44
+Spain,Engaged,78,58,26,702,42798.96,61
+Sweden,Engaged,95,91,50,831,34898.36,42
+Sweden,Casual,5,9,50,424,1697.55,4
+Switzerland,Casual,47,46,76,796,26256.89,33
+Switzerland,Engaged,53,54,24,776,29482.51,38
+United Kingdom,Casual,22,27,69,280,1505028.74,5366
+United Kingdom,Engaged,78,73,31,363,5262844.65,14491
