@@ -30,7 +30,7 @@ This project explores customer segmentation, revenue distribution, and product r
 - **Join Logic**: Used to combine product and country-level aggregates
 
 ## Power BI Techniques Used
-- **Dynamic Titles**: Titles built using custom DAX measures (`SELECTEDVALUE`) that update automatically based on the slicer selection
+- **Dynamic Titles**: Titles built using custom DAX measures `SELECTEDVALUE` that update automatically based on the slicer selection
 - **Slicer Logic**: Tier based filters with visual interactions
  
 ## Dashboard Screenshot ![Online Retail Dashboard - Top Tier](https://github.com/user-attachments/assets/0a1c71e5-84ca-4165-a648-90f9a22e7657)
