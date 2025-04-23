@@ -32,12 +32,6 @@ select*
 from online_retail
 where UnitPrice > 0 and Quantity > 0
 
-select  * from (
-select Country, CustomerID, sum(UnitPrice * Quantity) as totalExpenditure, count(distinct InvoiceNo) as transactions
-from cleanedTable
-group by Country, CustomerID) as temp
-where Country = 'United Kingdom'
-order by totalExpenditure desc;
 
 #what is the total spending, total transactions, and average spending per transaction broken down by country
 with totalCount as 
