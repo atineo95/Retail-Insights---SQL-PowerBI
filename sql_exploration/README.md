@@ -4,19 +4,19 @@ This folder contains exploratory SQL queries that are used to understand custome
 
 ## Query Types and Business Questions Answered
 
-### **Data Cleaning & Preprocessing**
+**Data Cleaning & Preprocessing**
 - Format the invoice date and remove invalid entries such as negative quantities or unit prices
 - Create a cleaned table (`cleanedTable`) to not remove original table for use in all subsequent analysis. The original table will be used for analysis to better understand returned products
 
-### **Revenue Analysis**
+**Revenue Analysis**
 - What is the total spending, transaction count, and average spending per transaction by country?
 - What is the monthly revenue trend across countries?
 
-### **Customer Segmentation**
+**Customer Segmentation**
 - What is the difference in revenue and behavior between **engaged** (≥5 purchases) and **casual** customers?
 - What % of revenue and transactions come from each group?
 
-### **Product Concentration**
+**Product Concentration**
 - How much revenue comes from top products in each country?
 - What is the gap between product unit share and revenue share?
 ---
